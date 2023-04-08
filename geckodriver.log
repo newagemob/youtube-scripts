@@ -1,0 +1,175 @@
+1680580229135	geckodriver	INFO	Listening on 127.0.0.1:53780
+1680580229654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53781" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofileDJY0uS"
+1680580230167	Marionette	INFO	Marionette enabled
+1680580230221	Marionette	INFO	Listening on port 53790
+Read port: 53790
+WebDriver BiDi listening on ws://127.0.0.1:53781
+1680580230317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofileDJY0uS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53781/devtools/browser/e6d34bf7-019e-45c9-9feb-50f8000bc35c
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680580255691	geckodriver	INFO	Listening on 127.0.0.1:53956
+1680580256204	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53957" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilejGM7s1"
+1680580256540	Marionette	INFO	Marionette enabled
+1680580256664	Marionette	INFO	Listening on port 53966
+WebDriver BiDi listening on ws://127.0.0.1:53957
+Read port: 53966
+1680580256825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilejGM7s1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53957/devtools/browser/386bf450-26d8-4a82-9dfa-82eb873ca364
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680580294919	geckodriver	INFO	Listening on 127.0.0.1:54183
+1680580295438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54184" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilefWtnUr"
+1680580295784	Marionette	INFO	Marionette enabled
+1680580295909	Marionette	INFO	Listening on port 54193
+WebDriver BiDi listening on ws://127.0.0.1:54184
+Read port: 54193
+1680580296023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilefWtnUr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54184/devtools/browser/0da11144-3e72-4140-bbe1-9de197f7b85d
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 5625 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript warning: https://www.youtube.com/s/player/fa7eb95c/player_ias.vflset/en_US/base.js, line 10317: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 337 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/fa7eb95c/player_ias.vflset/en_US/base.js, line 10317: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 1156 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 5916 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680580312169	Marionette	INFO	Stopped listening on port 54193
+1680580348521	geckodriver	INFO	Listening on 127.0.0.1:54504
+1680580349040	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54505" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofileR3xlUR"
+1680580349391	Marionette	INFO	Marionette enabled
+1680580349518	Marionette	INFO	Listening on port 54516
+WebDriver BiDi listening on ws://127.0.0.1:54505
+Read port: 54516
+1680580349626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofileR3xlUR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54505/devtools/browser/1c1e1322-1f8d-4b4e-9503-c413fc755a00
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 4031 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript warning: https://www.youtube.com/s/player/fa7eb95c/player_ias.vflset/en_US/base.js, line 10317: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680580422486	Marionette	INFO	Stopped listening on port 54516
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 816 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 2873 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680580425019	geckodriver	INFO	Listening on 127.0.0.1:54902
+1680580425536	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54903" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofileUvIGxW"
+1680580425861	Marionette	INFO	Marionette enabled
+1680580425986	Marionette	INFO	Listening on port 54912
+WebDriver BiDi listening on ws://127.0.0.1:54903
+Read port: 54912
+1680580426142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofileUvIGxW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54903/devtools/browser/d97c98f0-1cc1-4343-9ad8-8c13b295b3a6
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 5540 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680580904265	Marionette	INFO	Stopped listening on port 54912
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 720 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680580908133	geckodriver	INFO	Listening on 127.0.0.1:57008
+1680580908652	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57009" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilehh7ZZC"
+1680580908955	Marionette	INFO	Marionette enabled
+1680580908996	Marionette	INFO	Listening on port 57018
+Read port: 57018
+WebDriver BiDi listening on ws://127.0.0.1:57009
+1680580909133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilehh7ZZC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57009/devtools/browser/f948fcec-8772-4905-809f-4fad78ab51a0
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 5043 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680580925031	Marionette	INFO	Stopped listening on port 57018
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 6330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680581543572	geckodriver	INFO	Listening on 127.0.0.1:59689
+1680581544094	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59690" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofileXS457o"
+1680581544456	Marionette	INFO	Marionette enabled
+1680581544581	Marionette	INFO	Listening on port 59699
+Read port: 59699
+WebDriver BiDi listening on ws://127.0.0.1:59690
+1680581544643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofileXS457o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59690/devtools/browser/18289a62-0fc3-4a7e-808d-711a3083396c
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 6525 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript warning: https://www.youtube.com/embed/fEY1ljrE88M?feature=oembed&enablejsapi=1 line 798 > injectedScript line 2 > eval line 2479 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680581627595	geckodriver	INFO	Listening on 127.0.0.1:60114
+1680581628114	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60115" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofileiSDfP9"
+1680581628460	Marionette	INFO	Marionette enabled
+1680581628503	Marionette	INFO	Listening on port 60124
+Read port: 60124
+WebDriver BiDi listening on ws://127.0.0.1:60115
+1680581628585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofileiSDfP9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60115/devtools/browser/beee4ca9-24d6-4c6a-ba8f-d6ff770de594
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 1057 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680581649276	Marionette	INFO	Stopped listening on port 60124
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680581749936	geckodriver	INFO	Listening on 127.0.0.1:60725
+1680581750454	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60726" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilewACIig"
+1680581750789	Marionette	INFO	Marionette enabled
+1680581750919	Marionette	INFO	Listening on port 60735
+WebDriver BiDi listening on ws://127.0.0.1:60726
+Read port: 60735
+1680581751092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilewACIig/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60726/devtools/browser/626c8fe2-1629-4d47-a240-8e578d4373c5
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 2482 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680581770259	Marionette	INFO	Stopped listening on port 60735
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 402 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680583307765	geckodriver	INFO	Listening on 127.0.0.1:61852
+1680583308286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61853" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilepucVwx"
+1680583308689	Marionette	INFO	Marionette enabled
+1680583308731	Marionette	INFO	Listening on port 61862
+Read port: 61862
+WebDriver BiDi listening on ws://127.0.0.1:61853
+1680583308830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilepucVwx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61853/devtools/browser/bbfa1e4d-7710-4c53-aebb-671024dae3be
+JavaScript warning: https://www.google.com/js/th/yh64qGL6cJWuaIuBylQ3olHoN540yfVTMqcwVUx5bOA.js line 2 > eval line 39 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1680584556405	geckodriver	INFO	Listening on 127.0.0.1:62295
+1680584556924	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62296" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilesUxdo8"
+1680584557474	Marionette	INFO	Marionette enabled
+1680584557529	Marionette	INFO	Listening on port 62301
+Read port: 62301
+WebDriver BiDi listening on ws://127.0.0.1:62296
+1680584557612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilesUxdo8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62296/devtools/browser/3b4dc377-9708-4a09-b56e-f214872bfb13
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1680584563288	Marionette	INFO	Stopped listening on port 53966
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680584565359	Marionette	INFO	Stopped listening on port 59699
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680584567199	Marionette	INFO	Stopped listening on port 53790
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

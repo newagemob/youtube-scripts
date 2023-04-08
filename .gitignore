@@ -1,0 +1,9 @@
+__pycache__/
+
+# C Extensions
+*.so
+
+# AI Script Outputs
+history_video_scripts/*
+programming_video_scripts/*
+tech_video_scripts/*
