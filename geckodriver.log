@@ -173,3 +173,30 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 1680584567199	Marionette	INFO	Stopped listening on port 53790
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681659279554	geckodriver	INFO	Listening on 127.0.0.1:49485
+1681659280074	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49486" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilevKIayz"
+1681659280649	Marionette	INFO	Marionette enabled
+1681659280693	Marionette	INFO	Listening on port 49493
+Read port: 49493
+WebDriver BiDi listening on ws://127.0.0.1:49486
+1681659280779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilevKIayz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49486/devtools/browser/55a8dad0-b678-4240-9cb2-d0e28e23acee
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript warning: https://www.youtube.com/s/player/36754c51/player_ias.vflset/en_US/base.js, line 10390: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681733993150	Marionette	INFO	Stopped listening on port 49493
+JavaScript warning: https://www.google.com/js/th/Q7HKpAo5xAdI8hJakOcHWgfuIV1tfxiK6LUilzZiPbM.js line 2 > eval line 2851 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685847547202	geckodriver	INFO	Listening on 127.0.0.1:49998
+1685847547718	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49999" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilecC3KeD"
+1685847548203	Marionette	INFO	Marionette enabled
+1685847548248	Marionette	INFO	Listening on port 50006
+Read port: 50006
+WebDriver BiDi listening on ws://127.0.0.1:49999
+1685847548333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wh/p2_cw0ts2kdftbgff3c0_3x40000gn/T/rust_mozprofilecC3KeD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49999/devtools/browser/de5d7785-5f97-43ea-969a-9450030273a2
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.c29e1df213f970a80172.js, line 1: unreachable code after return statement
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D

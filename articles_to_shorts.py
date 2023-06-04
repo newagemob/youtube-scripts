@@ -170,3 +170,4 @@ if __name__ == "__main__":
     get_tech_articles()
     # get_programming_examples(programming_languages[0], programming_methods[3])
     # get_history_articles()
+
