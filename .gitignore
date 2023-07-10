@@ -2,6 +2,7 @@ __pycache__/
 
 # C Extensions
 *.so
+./geckodriver.log
 
 # AI Script Outputs
 history_video_scripts/*
